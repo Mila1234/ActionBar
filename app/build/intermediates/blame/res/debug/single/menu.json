@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\projekti\\ActionBar1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_actions.xml",
+        "source": "D:\\projekti\\ActionBar1\\app\\src\\main\\res\\menu\\activity_main_actions.xml"
+    },
+    {
+        "merged": "D:\\projekti\\ActionBar1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\projekti\\ActionBar1\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

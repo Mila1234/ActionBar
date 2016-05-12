@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:2:1-52:12
+	package
+		ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:11:5-50:19
+	android:label
+		ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:15:9-40
+activity#info.androidhive.actionbar.MainActivity
+ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:16:9-27:20
+	android:label
+		ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:17:13-67
+meta-data#android.app.default_searchable
+ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:19:13-21:58
+	android:value
+		ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:21:17-55
+	android:name
+		ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:20:17-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:25:27-74
+activity#info.androidhive.actionbar.SearchResultsActivity
+ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:30:9-39:20
+	android:parentActivityName
+		ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:31:13-81
+	android:name
+		ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:30:19-56
+intent-filter#android.intent.action.SEARCH
+ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:32:13-34:29
+action#android.intent.action.SEARCH
+ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:33:17-71
+	android:name
+		ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:33:25-68
+meta-data#android.app.searchable
+ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:36:13-38:54
+	android:resource
+		ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:38:17-51
+	android:name
+		ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:37:17-54
+activity#info.androidhive.actionbar.LocationFound
+ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:42:9-49:20
+	android:label
+		ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:44:13-60
+	android:parentActivityName
+		ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:45:13-81
+	android:name
+		ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:43:13-68
+meta-data#android.support.UI_OPTIONS
+ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:47:13-48:63
+	android:value
+		ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:48:20-60
+	android:name
+		ADDED from D:\projekti\ActionBar1\app\src\main\AndroidManifest.xml:47:24-65
